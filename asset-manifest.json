@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1e5df40f.css",
-    "main.js": "/static/js/main.1f817269.js",
+    "main.css": "/static/css/main.1d2fdff2.css",
+    "main.js": "/static/js/main.aab46190.js",
     "static/media/chat.jpg": "/static/media/chat.7700a84f5cec2dde3abc.jpg",
     "static/media/auth-bg.jpg": "/static/media/auth-bg.c7d86d01e0bac1c6ef20.jpg",
     "static/media/garner-bg1.jpg": "/static/media/garner-bg1.1c89782505c129823203.jpg",
@@ -19,6 +19,7 @@
     "static/media/internships.jpg": "/static/media/internships.dfc435ae314436c70098.jpg",
     "static/media/scholarships.jpg": "/static/media/scholarships.e1c18c0d0af0d8772e9f.jpg",
     "static/media/pattern.png": "/static/media/pattern.710625a5a26d05cabda3.png",
+    "static/media/logo-sm.png": "/static/media/logo-sm.a582730ddfd8a31d2462.png",
     "static/media/phd.jpg": "/static/media/phd.1cba627ad644b6be91ca.jpg",
     "static/media/hero2.jpg": "/static/media/hero2.f3185f3f9f4166be3d58.jpg",
     "static/media/logo-light.png": "/static/media/logo-light.b95b5ec9333490b1e168.png",
@@ -38,11 +39,11 @@
     "static/media/combine-icon1.svg": "/static/media/combine-icon1.984b1821332a6a0097f604243df55b59.svg",
     "static/media/choose-item1.svg": "/static/media/choose-item1.ff16f6a533d666f2a5db16e581530297.svg",
     "static/media/combine-icon4.svg": "/static/media/combine-icon4.8a328cd49131466d89dbf6f5049534e2.svg",
-    "main.1e5df40f.css.map": "/static/css/main.1e5df40f.css.map",
-    "main.1f817269.js.map": "/static/js/main.1f817269.js.map"
+    "main.1d2fdff2.css.map": "/static/css/main.1d2fdff2.css.map",
+    "main.aab46190.js.map": "/static/js/main.aab46190.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e5df40f.css",
-    "static/js/main.1f817269.js"
+    "static/css/main.1d2fdff2.css",
+    "static/js/main.aab46190.js"
   ]
 }
